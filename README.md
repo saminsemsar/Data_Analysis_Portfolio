@@ -68,4 +68,4 @@ Feel free to reach out if you'd like to discuss my projects or explore collabora
 
 - **Email**: samin.semsar@umbc.edu
 - **Portfolio Website**: [saminsemsar.github.io](https://saminsemsar.github.io)
-- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/saminsemsar)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/samin-semsar-a0946483)
