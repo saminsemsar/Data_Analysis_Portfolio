@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository contains two major projects that
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Exploratory Data Analysis on Babies' VitalSigns](#Exploratory-Data-Analysis-on-Babies'-Vital-Signs)
+2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)
 3. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
 4. [Skills Demonstrated](#skills-demonstrated)
 5. [Contact Information](#contact-information)
@@ -21,7 +21,7 @@ These projects highlight my ability to work with large datasets, apply machine l
 
 ---
 
-## Exploratory Data Analysis on Babies' Vital Signs
+## Exploratory Data Analysis on Vital Signs
 
 This project explores baby health data, focusing on preprocessing, clustering, and extracting insights related to demographic factors like weight and age.
 
