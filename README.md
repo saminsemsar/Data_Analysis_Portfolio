@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository contains two major projects that
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Baby Data Analysis](#baby-data-analysis)
+2. [Exploratory Data Analysis on 8 Babies' VitalSigns](#Exploratory-Data-Analysis-on-Babies-Vital-Signs)
 3. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
 4. [Skills Demonstrated](#skills-demonstrated)
 5. [Contact Information](#contact-information)
