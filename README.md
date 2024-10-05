@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! This repository contains two major projects that
 ## Overview
 
 This portfolio contains two comprehensive data analysis projects:
-1. **Baby Data Analysis**: Focusing on clustering and exploratory data analysis for neonatal health data.
+1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
 2. **Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
 
 These projects highlight my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis.
