@@ -39,7 +39,7 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 
 ## Predictive Policing Bias Analysis
 
-This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to over-police or under-police neighborhoods based on racial and geographical factors.
+This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
 
 ### Notebooks:
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
@@ -48,7 +48,7 @@ This project compares Kernel Density Estimation (KDE) and PredPol models to unde
 
 ### Key Highlights:
 - **Predictive Modeling**: Built KDE and PredPol models to simulate police resource distribution.
-- **Bias Analysis**: Identified trends of over- and under-policing across neighborhoods, comparing both models.
+- **Bias Analysis**: Identified trends of police concentration across neighborhoods, comparing both models.
 - **Visualization**: Used time-series plots, variance analysis, and trendline fitting to reveal patterns in police resource allocation.
 
 ---
