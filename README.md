@@ -57,8 +57,8 @@ This project compares Kernel Density Estimation (KDE) and PredPol models to unde
 
 Through these projects, I have applied the following skills:
 - **Data Preprocessing**: Efficiently cleaning and organizing raw datasets.
-- **Clustering & Statistical Analysis**: applied algorithms like k-means for clustering, and statistical methods for data analysis.
-- **Time-Series & Bias Detection**: Analyzed temporal data and modeled predictive policing biases over time.
+- **Statistical Analysis**: applied algorithms and statistical methods for data analysis.
+- **Time-Series & Bias Detection**: Analyzed temporal data and compared predictive biases over time in different scenarios.
 - **Visualization**: Leveraged Python libraries such as Matplotlib, Seaborn, and pandas for effective data visualization.
 
 ---
