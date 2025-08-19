@@ -44,7 +44,7 @@ This project compares Kernel Density Estimation (KDE) and PredPol models to unde
 ### Notebooks:
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
 - [KDE vs PredPol Model Development](./PredictivePolicing/KDE_and_Pred.ipynb)
-- [Analysis Results](./PredictivePolicing/KDE_vs_Pred_paper_Analysis.ipynb)
+- [Analysis Results](./PredictivePolicing/Hotspot_vs_Predictive_Policing_Analysis.ipynb)
 
 ### Key Highlights:
 - **Predictive Modeling**: Built KDE and PredPol models to simulate police resource distribution.
