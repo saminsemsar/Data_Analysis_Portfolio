@@ -5,9 +5,9 @@ Welcome to my GitHub portfolio! This repository contains a projects that demonst
 ## Table of Contents
 1. [Overview](#overview)
 <!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
-3. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
-4. [Skills Demonstrated](#skills-demonstrated)
-5. [Contact Information](#contact-information)
+2. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
+3. [Skills Demonstrated](#skills-demonstrated)
+4. [Contact Information](#contact-information)
 
 ---
 
