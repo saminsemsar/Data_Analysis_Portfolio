@@ -1,10 +1,10 @@
 # Data Analysis Portfolio
 
-Welcome to my GitHub portfolio! This repository contains two major projects that demonstrate my expertise in data analysis, machine learning, and statistical modeling.
+Welcome to my GitHub portfolio! This repository contains a projects that demonstrates my expertise in data analysis, machine learning, and statistical modeling.
 
 ## Table of Contents
 1. [Overview](#overview)
-2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)
+<!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
 3. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
 4. [Skills Demonstrated](#skills-demonstrated)
 5. [Contact Information](#contact-information)
@@ -13,12 +13,12 @@ Welcome to my GitHub portfolio! This repository contains two major projects that
 
 ## Overview
 
-This portfolio contains two comprehensive data analysis projects:
-1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
-2. **Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
+This portfolio contains a comprehensive data analysis projects:
+<!--1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
+2. -->**Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
 
-These projects highlight my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis.
-
+This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis.
+<!--
 ---
 
 ## Exploratory Data Analysis on Vital Signs
@@ -34,8 +34,8 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 - **Data Preprocessing**: Cleaned and transformed raw data for analysis.
 - **Clustering**: Applied clustering algorithms to identify health patterns among babies.
 - **Exploratory Data Analysis (EDA)**: Visualized the data using statistical plots and trends.
-
----
+-->
+--- 
 
 ## Predictive Policing Bias Analysis
 
