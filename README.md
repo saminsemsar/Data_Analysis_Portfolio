@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! This repository contains a projects that demonst
 
 ## Overview
 
-This portfolio contains a comprehensive data analysis projects:
+This portfolio contains a comprehensive data analysis project:
 <!--1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
 2. -->
 **Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
