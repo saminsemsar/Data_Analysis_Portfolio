@@ -3,8 +3,7 @@
 Welcome to my GitHub portfolio! This repository contains a projects that demonstrates my expertise in data analysis, machine learning, and statistical modeling.
 
 ## Table of Contents
-1. [Overview](#overview)
-<!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
+1. [Overview](#overview) <!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
 2. [Predictive Policing Bias Analysis](#predictive-policing-bias-analysis)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [Contact Information](#contact-information)
@@ -15,7 +14,8 @@ Welcome to my GitHub portfolio! This repository contains a projects that demonst
 
 This portfolio contains a comprehensive data analysis projects:
 <!--1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
-2. -->**Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
+2. -->
+**Predictive Policing Bias Analysis**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
 
 This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis.
 <!--
