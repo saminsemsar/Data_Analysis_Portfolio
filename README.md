@@ -42,7 +42,7 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
 
 ### Notebooks:
-- [Data Preprocessing](./PredictivePolicing/Data Preprocessing.ipynb)
+- [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
 - [KDE vs PredPol Model Development](./PredictivePolicing/KDE_and_Pred.ipynb)
 - [Analysis Results](./PredictivePolicing/Hotspot_vs_Predictive_Policing_Analysis.ipynb)
 
