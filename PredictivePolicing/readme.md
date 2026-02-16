@@ -3,12 +3,12 @@
 This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
 
 ## Notebooks:
-- [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
-- [KDE vs PredPol Model Development](./PredictivePolicing/KDE_and_Pred.ipynb)
-- [Analysis Results](./PredictivePolicing/Hotspot_vs_Predictive_Policing_Analysis.ipynb)
+- [Data Preprocessing](./Data_Preprocessing.ipynb)
+- [KDE vs PredPol Model Development](./KDE_and_Pred.ipynb)
+- [Analysis Results](./Hotspot_vs_Predictive_Policing_Analysis.ipynb)
 
 ## Datasets:
-The datasets could be found [here](./PredictivePolicing/Data).
+The datasets could be found [here](./Data).
 
 ## Key Highlights:
 - **Predictive Modeling**: Built KDE and PredPol models to simulate police resource distribution.
