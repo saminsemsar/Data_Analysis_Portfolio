@@ -31,7 +31,7 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 - [Exploratory Analysis](./VitalSignsEDA/Exploratory_analysis_on_the_results.ipynb)
 
 ### Key Highlights:
-- **Data Preprocessing**: Cleaned and transformed raw data for analysis.
+- **Data Preprocessing**: Cleaned and transformed raw data for analysis. 
 - **Clustering**: Applied clustering algorithms to identify health patterns among babies.
 - **Exploratory Data Analysis (EDA)**: Visualized the data using statistical plots and trends.
 -->
@@ -45,6 +45,9 @@ This project compares Kernel Density Estimation (KDE) and PredPol models to unde
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
 - [KDE vs PredPol Model Development](./PredictivePolicing/KDE_and_Pred.ipynb)
 - [Analysis Results](./PredictivePolicing/Hotspot_vs_Predictive_Policing_Analysis.ipynb)
+
+### Datasets:
+The datasets could be found [here](./PredictivePolicing/Data).
 
 ### Key Highlights:
 - **Predictive Modeling**: Built KDE and PredPol models to simulate police resource distribution.
