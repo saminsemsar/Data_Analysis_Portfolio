@@ -47,7 +47,7 @@ View the published Tableau dashboard here:
 
 ### Final Paper
 This repository supports the paper:
-[A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City](https://arxiv.org/abs/2602.02566)**
+[A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City](https://arxiv.org/abs/2602.02566)
 
 ### Notebooks:
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
