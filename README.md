@@ -4,7 +4,7 @@ Welcome to my GitHub portfolio! This repository contains projects that demonstra
 
 ## Table of Contents
 1. [Overview](#overview) <!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
-2. [A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City](#predictive-policing-bias-analysis)
+2. [Fairness and Accuracy of Predictive Policing Systems in Baltimore City](#predictive-policing-bias-analysis)
 3. [Skills Demonstrated](#skills-demonstrated)
 4. [Contact Information](#contact-information)
 
@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! This repository contains projects that demonstra
 This portfolio contains a comprehensive data analysis project:
 <!--1. **Exploratory Data Analysis on Vital Signs**: Focusing on clustering and exploratory data analysis for neonatal health data.
 2. -->
-**A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
+**Fairness and Accuracy of Predictive Policing Systems in Baltimore City**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
 
 This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis. 
 
@@ -38,7 +38,7 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 -->
 --- 
 
-## Predictive Policing Bias Analysis
+## Fairness and Accuracy of Predictive Policing Systems in Baltimore City
 
 This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
 
