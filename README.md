@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-Welcome to my GitHub portfolio! This repository contains a projects that demonstrates my expertise in data analysis, machine learning, and statistical modeling.
+Welcome to my GitHub portfolio! This repository contains projects that demonstrate my expertise in data analysis, machine learning, and statistical modeling.
 
 ## Table of Contents
 1. [Overview](#overview) <!--2. [Exploratory Data Analysis on Vital Signs](#Exploratory-Data-Analysis-on-Vital-Signs)-->
@@ -17,7 +17,12 @@ This portfolio contains a comprehensive data analysis project:
 2. -->
 **A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City**: A simulation-based analysis of bias in predictive policing models (KDE vs PredPol) using real-world crime data.
 
-This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis.
+This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis. 
+
+## Interactive Dashboard
+
+View the published Tableau dashboard here:  
+[Fairness in Predictive Policing Dashboard](https://public.tableau.com/app/profile/samin.semsar/viz/Fairness_PredictivePolicing_Dashboard/Dashboard4)
 <!--
 ---
 
