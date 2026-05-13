@@ -51,11 +51,13 @@ This repository supports the paper:
 
 [A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City](https://arxiv.org/abs/2602.02566)
 
-### Notebooks:
+### Notebooks and Python Code:
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
 - [KDE vs PredPol Model Development](./PredictivePolicing/KDE_and_Pred.ipynb)
 - [Analysis Results](./PredictivePolicing/Hotspot_vs_Predictive_Policing_Analysis.ipynb)
-
+<!---
+- [](./PredictivePolicing/
+--->
 ### Datasets:
 The datasets could be found [here](./PredictivePolicing/Data).         
 
