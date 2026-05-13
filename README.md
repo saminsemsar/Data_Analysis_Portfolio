@@ -43,10 +43,12 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 This project presents a comparative simulation study of predictive policing and hot spot policing systems in Baltimore City. It compares PredPol, short-term KDE, and long-term KDE across fairness and accuracy metrics using real Baltimore crime and neighborhood data. The simulation evaluates how police allocation, crime detection, reporting probability, and feedback loops affect racial and neighborhood-level fairness over time.                                                          
 ### Interactive Dashboard
 View the published Tableau dashboard here:  
+
 [Fairness in Predictive Policing Dashboard](https://public.tableau.com/app/profile/samin.semsar/viz/Fairness_PredictivePolicing_Dashboard/Dashboard4)
 
 ### Final Paper
 This repository supports the paper:
+
 [A Comparative Simulation Study of the Fairness and Accuracy of Predictive Policing Systems in Baltimore City](https://arxiv.org/abs/2602.02566)
 
 ### Notebooks:
