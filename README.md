@@ -19,10 +19,6 @@ This portfolio contains a comprehensive data analysis project:
 
 This project highlights my ability to work with large datasets, apply machine learning techniques, and draw actionable insights through detailed statistical analysis. 
 
-## Interactive Dashboard
-
-View the published Tableau dashboard here:  
-[Fairness in Predictive Policing Dashboard](https://public.tableau.com/app/profile/samin.semsar/viz/Fairness_PredictivePolicing_Dashboard/Dashboard4)
 <!--
 ---
 
@@ -45,6 +41,11 @@ This project explores baby health data, focusing on preprocessing, clustering, a
 ## Predictive Policing Bias Analysis
 
 This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
+
+### Interactive Dashboard
+
+View the published Tableau dashboard here:  
+[Fairness in Predictive Policing Dashboard](https://public.tableau.com/app/profile/samin.semsar/viz/Fairness_PredictivePolicing_Dashboard/Dashboard4)
 
 ### Notebooks:
 - [Data Preprocessing](./PredictivePolicing/Data_Preprocessing.ipynb)
