@@ -1,4 +1,4 @@
-# Predictive Policing Bias Analysis
+# Fairness and Accuracy of Predictive Policing Systems in Baltimore City
 
 This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
 
