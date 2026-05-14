@@ -1,6 +1,6 @@
 # Fairness and Accuracy of Predictive Policing Systems in Baltimore City
 
-This project compares Kernel Density Estimation (KDE) and PredPol models to understand the biases in police resource allocation. The models are evaluated for their tendency to concentrate officers in neighborhoods based on racial and geographical factors.
+This project presents a comparative simulation study of predictive policing and hot spot policing systems in Baltimore City. It compares PredPol, short-term KDE, and long-term KDE across fairness and accuracy metrics using real Baltimore crime and neighborhood data. The simulation evaluates how police allocation, crime detection, reporting probability, and feedback loops affect racial and neighborhood-level fairness over time.
 
 ## Notebooks:
 - [Data Preprocessing](./Data_Preprocessing.ipynb)
